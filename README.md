@@ -1,12 +1,12 @@
-[![MasterHead](https://media.licdn.com/dms/image/D563DAQFIJGy_J4EvYA/image-scale_191_1128/0/1666883668428?e=1675425600&v=beta&t=q5S0E-n5z-gDvzZPdOvK7oorksu-JESWk3DdbbvU2ss)](https://codegrills.in)
+[![MasterHead](https://camo.githubusercontent.com/5bbc91d8bdb210e75aa75ec06079c82e9ba05c78707a9e36d3671fe014ba01e1/68747470733a2f2f6d617275663030312d6d742e6769746875622e696f2f5072656d69756d2d44656c69766572792f7765622e676966)]
 
 <h1 align="center">Hi 👋, I'm Aroob Aziz</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
-<img align="right" alt="Coding" width="400" src="https://tenor.com/search/hacking-gifs">
+<img align="right" alt="Coding" width="400" src="https://gifdb.com/gif/scrolling-up-green-system-coding-nxt2vg8bl6e4wbo1.html">
 
 - 🔭 I’m currently working on **Ride Hailing Mobile Application Project**
 
-- 🌱 I’m currently learning **JavaScript,ReactJs, ReactNative, NodeJs, MongoDb, Firebase**
+- 🌱 I’m currently learning **JavaScript,ReactJs, ReactNative, NodeJs**
 
 - 👯 I’m looking to collaborate on **Frontend Projects**
 
