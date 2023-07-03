@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Aroob Aziz</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
-<img align="right" alt="Coding" width="400" src="https://gifdb.com/gif/scrolling-up-green-system-coding-nxt2vg8bl6e4wbo1.html">
+<img align="right" alt="Coding" width="400" src="https://media.istockphoto.com/id/1224500457/photo/programming-code-abstract-technology-background-of-software-developer-and-computer-script.jpg?s=612x612&w=0&k=20&c=nHMypkMTU1HUUW85Zt0Ff7MDbq17n0eVeXaoM9Knt4Q=">
 
 - 🔭 I’m currently working on **Ride Hailing Mobile Application Project**
 
