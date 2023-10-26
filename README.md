@@ -1,16 +1,16 @@
 ![MasterHead](https://camo.githubusercontent.com/5bbc91d8bdb210e75aa75ec06079c82e9ba05c78707a9e36d3671fe014ba01e1/68747470733a2f2f6d617275663030312d6d742e6769746875622e696f2f5072656d69756d2d44656c69766572792f7765622e676966)
 
 <h1 align="center">Hi 👋, I'm Aroob Aziz</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">A passionate web developer from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://media.istockphoto.com/id/1224500457/photo/programming-code-abstract-technology-background-of-software-developer-and-computer-script.jpg?s=612x612&w=0&k=20&c=nHMypkMTU1HUUW85Zt0Ff7MDbq17n0eVeXaoM9Knt4Q=">
 
 - 🔭 I’m currently working on **Ride Hailing Mobile Application Project**
 
 - 🌱 I’m currently learning **JavaScript,ReactJs, ReactNative, NodeJs**
 
-- 👯 I’m looking to collaborate on **Frontend Projects**
+- 👯 I’m looking to collaborate on **Full Stack Projects**
 
-- 📝 I regularly write articles on [aroobmemon.site](aroobmemon.site)
+- 📝 I write articles on [aroobmemon.site](aroobmemon.site)
 
 - 💬 Ask me about **react, reactnative, mysql**
 
@@ -22,7 +22,7 @@
 <p align="left">
 <a href="https://twitter.com/@azizaroob" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@azizaroob" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aroob-aziz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aroob-aziz" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/aroob aziz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aroob aziz" height="30" width="40" /></a>
+<a href="https://leetcode.com/aroobmemon/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aroob aziz" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
