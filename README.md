@@ -4,13 +4,11 @@
 <h3 align="center">A passionate web developer from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://media.istockphoto.com/id/1224500457/photo/programming-code-abstract-technology-background-of-software-developer-and-computer-script.jpg?s=612x612&w=0&k=20&c=nHMypkMTU1HUUW85Zt0Ff7MDbq17n0eVeXaoM9Knt4Q=">
 
-- 🔭 I’m currently working on **Ride Hailing Mobile Application Project**
+- 🔭 I’m currently working on **Frontend Project**
 
-- 🌱 I’m currently learning **JavaScript,ReactJs, ReactNative, NodeJs**
+- 🌱 I’m currently learning **JavaScript,ReactJs, NodeJs**
 
 - 👯 I’m looking to collaborate on **Full Stack Projects**
-
-- 📝 I write articles on [aroobmemon.site](aroobmemon.site)
 
 - 💬 Ask me about **react, reactnative, mysql**
 
@@ -30,8 +28,8 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aroob-aziz&show_icons=true&locale=en&layout=compact" alt="aroob-aziz" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aroob-aziz&show_icons=true&locale=en&layout=compact&theme=dark" alt="aroob-aziz" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aroob-aziz&show_icons=true&locale=en" alt="aroob-aziz" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aroob-aziz&show_icons=true&locale=en&theme=dark" alt="aroob-aziz" /></p>
 
 <p><img align="center" src="https://streak-stats.demolab.com/?user=aroob-aziz&theme=dark" alt="aroob-aziz" /></p>
