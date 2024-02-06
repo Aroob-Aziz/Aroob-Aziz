@@ -34,4 +34,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aroob-aziz&show_icons=true&locale=en" alt="aroob-aziz" /></p>
 
-<p><img align="center" src="https://streak-stats.demolab.com/?user=aroob-aziz" alt="aroob-aziz" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com/?user=aroob-aziz&theme=dark" alt="aroob-aziz" /></p>
