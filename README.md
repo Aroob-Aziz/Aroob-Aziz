@@ -31,6 +31,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aroob-aziz&show_icons=true&locale=en&layout=compact&theme=dark" alt="aroob-aziz" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aroob-aziz&show_icons=true&locale=en&theme=dark" alt="aroob-aziz" /></p>
-### :fire: My Streaks :
+### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aroob-aziz&theme=dark)](https://git.io/streak-stats)
 <!-- <p><img align="center" src="https://streak-stats.demolab.com/?user=aroob-aziz&theme=dark" alt="aroob-aziz" /></p> -->
