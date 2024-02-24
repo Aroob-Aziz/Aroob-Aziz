@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **Full Stack Projects**
 
-- 💬 Ask me about **react, reactnative, mysql**
+- 💬 Ask me about **react, nodejs , mysql**
 
 - 📫 How to reach me **aroobmemon@gmail.com**
 
