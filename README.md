@@ -1,4 +1,4 @@
-<img src="local.gif" alt="abc"/>
+<img src="local2.gif" alt="abc"/>
 
 
 <h1 align="center">Hi 👋, I'm Aroob Aziz</h1>
