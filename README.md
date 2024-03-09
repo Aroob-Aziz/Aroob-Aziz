@@ -5,7 +5,7 @@
 <h3 align="center">A passionate web developer from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://media.istockphoto.com/id/1224500457/photo/programming-code-abstract-technology-background-of-software-developer-and-computer-script.jpg?s=612x612&w=0&k=20&c=nHMypkMTU1HUUW85Zt0Ff7MDbq17n0eVeXaoM9Knt4Q=">
 
-- 🔭 I’m currently working on **Frontend Project**
+- 🔭 I’m currently working on **Frontend Projects**
 
 - 🌱 I’m currently learning **JavaScript,ReactJs, NodeJs**
 
